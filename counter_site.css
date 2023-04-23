@@ -1,0 +1,30 @@
+.container {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+
+.main-title {
+    color: red;
+    font-size: 100px
+}
+
+
+.counter {
+    font-size: 130px;
+    color: red;
+}
+
+
+.button-container {
+    padding-top: 40px;
+}
+
+
+.btn {
+    color: white;
+    background-color: red;
+    font-size: 30px;
+    border-radius: 8px;
+}
